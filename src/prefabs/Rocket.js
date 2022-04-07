@@ -1,4 +1,4 @@
-const { Phaser } = require("../../lib/phaser");
+// const { Phaser } = require("../../lib/phaser");
 
 // Rocket prefab
 class Rocket extends Phaser.GameObjects.Sprite {
